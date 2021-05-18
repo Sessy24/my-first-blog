@@ -1,0 +1,2127 @@
+ ドライブ C のボリューム ラベルは Windows です
+ ボリューム シリアル番号は 161D-2A41 です
+
+ C:\Users\piece\djangogirls のディレクトリ
+
+2021/05/18  10:17    <DIR>          .
+2021/05/18  10:17    <DIR>          ..
+2021/05/18  10:17                 0 dir.txt
+2021/05/18  10:11    <DIR>          myvenv
+               1 個のファイル                   0 バイト
+
+ C:\Users\piece\djangogirls\myvenv のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          Include
+2021/05/18  10:11    <DIR>          Lib
+2021/05/18  10:11               164 pyvenv.cfg
+2021/05/18  10:11    <DIR>          Scripts
+               1 個のファイル                 164 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Include のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          site-packages
+               0 個のファイル                   0 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               152 distutils-precedence.pth
+2021/05/18  10:11    <DIR>          pip
+2021/05/18  10:11    <DIR>          pip-21.1.1.dist-info
+2021/05/18  10:11    <DIR>          pkg_resources
+2021/05/18  10:11    <DIR>          setuptools
+2021/05/18  10:11    <DIR>          setuptools-56.0.0.dist-info
+2021/05/18  10:11    <DIR>          _distutils_hack
+               1 個のファイル                 152 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               286 py.typed
+2021/05/18  10:11    <DIR>          _internal
+2021/05/18  10:11    <DIR>          _vendor
+2021/05/18  10:11               368 __init__.py
+2021/05/18  10:11             1,198 __main__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル               1,852 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,643 build_env.py
+2021/05/18  10:11             9,958 cache.py
+2021/05/18  10:11    <DIR>          cli
+2021/05/18  10:11    <DIR>          commands
+2021/05/18  10:11            13,725 configuration.py
+2021/05/18  10:11    <DIR>          distributions
+2021/05/18  10:11            13,170 exceptions.py
+2021/05/18  10:11    <DIR>          index
+2021/05/18  10:11    <DIR>          locations
+2021/05/18  10:11               351 main.py
+2021/05/18  10:11    <DIR>          metadata
+2021/05/18  10:11    <DIR>          models
+2021/05/18  10:11    <DIR>          network
+2021/05/18  10:11    <DIR>          operations
+2021/05/18  10:11             7,061 pyproject.py
+2021/05/18  10:11    <DIR>          req
+2021/05/18  10:11    <DIR>          resolution
+2021/05/18  10:11             6,484 self_outdated_check.py
+2021/05/18  10:11    <DIR>          utils
+2021/05/18  10:11    <DIR>          vcs
+2021/05/18  10:11            11,740 wheel_builder.py
+2021/05/18  10:11               410 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               9 個のファイル              72,542 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\cli のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             6,350 autocompletion.py
+2021/05/18  10:11             7,741 base_command.py
+2021/05/18  10:11            28,999 cmdoptions.py
+2021/05/18  10:11               815 command_context.py
+2021/05/18  10:11             2,483 main.py
+2021/05/18  10:11             2,642 main_parser.py
+2021/05/18  10:11            11,097 parser.py
+2021/05/18  10:11             8,576 progress_bars.py
+2021/05/18  10:11            16,884 req_command.py
+2021/05/18  10:11             5,347 spinners.py
+2021/05/18  10:11               116 status_codes.py
+2021/05/18  10:11               132 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              12 個のファイル              91,182 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\cli\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             4,953 autocompletion.cpython-39.pyc
+2021/05/18  10:11             5,776 base_command.cpython-39.pyc
+2021/05/18  10:11            21,010 cmdoptions.cpython-39.pyc
+2021/05/18  10:11             1,204 command_context.cpython-39.pyc
+2021/05/18  10:11             1,304 main.cpython-39.pyc
+2021/05/18  10:11             2,085 main_parser.cpython-39.pyc
+2021/05/18  10:11             9,349 parser.cpython-39.pyc
+2021/05/18  10:11             7,421 progress_bars.cpython-39.pyc
+2021/05/18  10:11            11,194 req_command.cpython-39.pyc
+2021/05/18  10:11             4,592 spinners.cpython-39.pyc
+2021/05/18  10:11               334 status_codes.cpython-39.pyc
+2021/05/18  10:11               255 __init__.cpython-39.pyc
+              12 個のファイル              69,477 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\commands のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             7,414 cache.py
+2021/05/18  10:11             1,587 check.py
+2021/05/18  10:11             2,951 completion.py
+2021/05/18  10:11             9,206 configuration.py
+2021/05/18  10:11             6,806 debug.py
+2021/05/18  10:11             4,993 download.py
+2021/05/18  10:11             3,431 freeze.py
+2021/05/18  10:11             1,713 hash.py
+2021/05/18  10:11             1,149 help.py
+2021/05/18  10:11            27,135 install.py
+2021/05/18  10:11            11,331 list.py
+2021/05/18  10:11             5,598 search.py
+2021/05/18  10:11             6,866 show.py
+2021/05/18  10:11             3,216 uninstall.py
+2021/05/18  10:11             6,233 wheel.py
+2021/05/18  10:11             3,659 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              16 個のファイル             103,288 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\commands\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             5,730 cache.cpython-39.pyc
+2021/05/18  10:11             1,496 check.cpython-39.pyc
+2021/05/18  10:11             3,052 completion.cpython-39.pyc
+2021/05/18  10:11             8,033 configuration.cpython-39.pyc
+2021/05/18  10:11             6,417 debug.cpython-39.pyc
+2021/05/18  10:11             3,903 download.cpython-39.pyc
+2021/05/18  10:11             2,901 freeze.cpython-39.pyc
+2021/05/18  10:11             2,013 hash.cpython-39.pyc
+2021/05/18  10:11             1,232 help.cpython-39.pyc
+2021/05/18  10:11            16,679 install.cpython-39.pyc
+2021/05/18  10:11             8,790 list.cpython-39.pyc
+2021/05/18  10:11             4,889 search.cpython-39.pyc
+2021/05/18  10:11             6,288 show.cpython-39.pyc
+2021/05/18  10:11             2,837 uninstall.cpython-39.pyc
+2021/05/18  10:11             4,776 wheel.cpython-39.pyc
+2021/05/18  10:11             2,848 __init__.cpython-39.pyc
+              16 個のファイル              81,884 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\distributions のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,245 base.py
+2021/05/18  10:11               667 installed.py
+2021/05/18  10:11             3,900 sdist.py
+2021/05/18  10:11             1,205 wheel.py
+2021/05/18  10:11               864 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル               7,881 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\distributions\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,807 base.cpython-39.pyc
+2021/05/18  10:11             1,152 installed.cpython-39.pyc
+2021/05/18  10:11             3,415 sdist.cpython-39.pyc
+2021/05/18  10:11             1,496 wheel.cpython-39.pyc
+2021/05/18  10:11               751 __init__.cpython-39.pyc
+               5 個のファイル               8,621 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\index のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            18,192 collector.py
+2021/05/18  10:11            37,294 package_finder.py
+2021/05/18  10:11             6,557 sources.py
+2021/05/18  10:11                30 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               4 個のファイル              62,073 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\index\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            15,065 collector.cpython-39.pyc
+2021/05/18  10:11            26,592 package_finder.cpython-39.pyc
+2021/05/18  10:11             7,174 sources.cpython-39.pyc
+2021/05/18  10:11               209 __init__.cpython-39.pyc
+               4 個のファイル              49,040 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\locations のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,478 base.py
+2021/05/18  10:11             5,212 _distutils.py
+2021/05/18  10:11             5,959 _sysconfig.py
+2021/05/18  10:11             4,826 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               4 個のファイル              17,475 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\locations\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,193 base.cpython-39.pyc
+2021/05/18  10:11             3,862 _distutils.cpython-39.pyc
+2021/05/18  10:11             4,480 _sysconfig.cpython-39.pyc
+2021/05/18  10:11             3,665 __init__.cpython-39.pyc
+               4 個のファイル              13,200 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\metadata のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             4,750 base.py
+2021/05/18  10:11             4,248 pkg_resources.py
+2021/05/18  10:11             1,471 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル              10,469 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\metadata\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             5,282 base.cpython-39.pyc
+2021/05/18  10:11             4,236 pkg_resources.cpython-39.pyc
+2021/05/18  10:11             1,708 __init__.cpython-39.pyc
+               3 個のファイル              11,226 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\models のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,001 candidate.py
+2021/05/18  10:11             6,555 direct_url.py
+2021/05/18  10:11             2,629 format_control.py
+2021/05/18  10:11             1,092 index.py
+2021/05/18  10:11             7,472 link.py
+2021/05/18  10:11               770 scheme.py
+2021/05/18  10:11             4,613 search_scope.py
+2021/05/18  10:11             1,947 selection_prefs.py
+2021/05/18  10:11             3,962 target_python.py
+2021/05/18  10:11             3,614 wheel.py
+2021/05/18  10:11                63 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              11 個のファイル              33,718 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\models\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,356 candidate.cpython-39.pyc
+2021/05/18  10:11             6,269 direct_url.cpython-39.pyc
+2021/05/18  10:11             2,513 format_control.cpython-39.pyc
+2021/05/18  10:11             1,166 index.cpython-39.pyc
+2021/05/18  10:11             7,170 link.cpython-39.pyc
+2021/05/18  10:11               921 scheme.cpython-39.pyc
+2021/05/18  10:11             3,322 search_scope.cpython-39.pyc
+2021/05/18  10:11             1,556 selection_prefs.cpython-39.pyc
+2021/05/18  10:11             3,253 target_python.cpython-39.pyc
+2021/05/18  10:11             4,168 wheel.cpython-39.pyc
+2021/05/18  10:11               243 __init__.cpython-39.pyc
+              11 個のファイル              31,937 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\network のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            11,833 auth.py
+2021/05/18  10:11             2,213 cache.py
+2021/05/18  10:11             6,243 download.py
+2021/05/18  10:11             7,924 lazy_wheel.py
+2021/05/18  10:11            16,247 session.py
+2021/05/18  10:11             4,072 utils.py
+2021/05/18  10:11             1,703 xmlrpc.py
+2021/05/18  10:11                50 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               8 個のファイル              50,285 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\network\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             7,028 auth.cpython-39.pyc
+2021/05/18  10:11             2,710 cache.cpython-39.pyc
+2021/05/18  10:11             5,070 download.cpython-39.pyc
+2021/05/18  10:11             7,895 lazy_wheel.cpython-39.pyc
+2021/05/18  10:11             9,478 session.cpython-39.pyc
+2021/05/18  10:11             1,297 utils.cpython-39.pyc
+2021/05/18  10:11             1,876 xmlrpc.cpython-39.pyc
+2021/05/18  10:11               231 __init__.cpython-39.pyc
+               8 個のファイル              35,585 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\operations のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          build
+2021/05/18  10:11             5,245 check.py
+2021/05/18  10:11             9,999 freeze.py
+2021/05/18  10:11    <DIR>          install
+2021/05/18  10:11            24,850 prepare.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               4 個のファイル              40,094 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\operations\build のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,165 metadata.py
+2021/05/18  10:11             1,917 metadata_legacy.py
+2021/05/18  10:11             1,106 wheel.py
+2021/05/18  10:11             3,227 wheel_legacy.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル               7,415 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\operations\build\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,131 metadata.cpython-39.pyc
+2021/05/18  10:11             1,905 metadata_legacy.cpython-39.pyc
+2021/05/18  10:11             1,110 wheel.cpython-39.pyc
+2021/05/18  10:11             2,504 wheel_legacy.cpython-39.pyc
+2021/05/18  10:11               185 __init__.cpython-39.pyc
+               5 個のファイル               6,835 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\operations\install のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,396 editable_legacy.py
+2021/05/18  10:11             4,177 legacy.py
+2021/05/18  10:11            29,960 wheel.py
+2021/05/18  10:11                51 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               4 個のファイル              35,584 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\operations\install\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,286 editable_legacy.cpython-39.pyc
+2021/05/18  10:11             3,174 legacy.cpython-39.pyc
+2021/05/18  10:11            20,796 wheel.cpython-39.pyc
+2021/05/18  10:11               243 __init__.cpython-39.pyc
+               4 個のファイル              25,499 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\operations\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,675 check.cpython-39.pyc
+2021/05/18  10:11             5,628 freeze.cpython-39.pyc
+2021/05/18  10:11            14,215 prepare.cpython-39.pyc
+2021/05/18  10:11               179 __init__.cpython-39.pyc
+               4 個のファイル              23,697 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\req のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            16,267 constructors.py
+2021/05/18  10:11            18,000 req_file.py
+2021/05/18  10:11            32,332 req_install.py
+2021/05/18  10:11             7,778 req_set.py
+2021/05/18  10:11             4,391 req_tracker.py
+2021/05/18  10:11            23,468 req_uninstall.py
+2021/05/18  10:11             2,983 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               7 個のファイル             105,219 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\req\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            10,986 constructors.cpython-39.pyc
+2021/05/18  10:11            12,419 req_file.cpython-39.pyc
+2021/05/18  10:11            20,387 req_install.cpython-39.pyc
+2021/05/18  10:11             5,663 req_set.cpython-39.pyc
+2021/05/18  10:11             4,008 req_tracker.cpython-39.pyc
+2021/05/18  10:11            17,444 req_uninstall.cpython-39.pyc
+2021/05/18  10:11             2,326 __init__.cpython-39.pyc
+               7 個のファイル              73,233 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\resolution のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               563 base.py
+2021/05/18  10:11    <DIR>          legacy
+2021/05/18  10:11    <DIR>          resolvelib
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル                 563 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\resolution\legacy のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            17,934 resolver.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル              17,934 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\resolution\legacy\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            11,459 resolver.cpython-39.pyc
+2021/05/18  10:11               186 __init__.cpython-39.pyc
+               2 個のファイル              11,645 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\resolution\resolvelib のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             5,677 base.py
+2021/05/18  10:11            19,976 candidates.py
+2021/05/18  10:11            24,988 factory.py
+2021/05/18  10:11             5,410 found_candidates.py
+2021/05/18  10:11             7,673 provider.py
+2021/05/18  10:11             2,765 reporter.py
+2021/05/18  10:11             6,047 requirements.py
+2021/05/18  10:11            12,085 resolver.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               9 個のファイル              84,621 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\resolution\resolvelib\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             6,292 base.cpython-39.pyc
+2021/05/18  10:11            17,872 candidates.cpython-39.pyc
+2021/05/18  10:11            15,965 factory.cpython-39.pyc
+2021/05/18  10:11             4,638 found_candidates.cpython-39.pyc
+2021/05/18  10:11             6,558 provider.cpython-39.pyc
+2021/05/18  10:11             3,122 reporter.cpython-39.pyc
+2021/05/18  10:11             7,027 requirements.cpython-39.pyc
+2021/05/18  10:11             8,034 resolver.cpython-39.pyc
+2021/05/18  10:11               190 __init__.cpython-39.pyc
+               9 個のファイル              69,698 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\resolution\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               922 base.cpython-39.pyc
+2021/05/18  10:11               179 __init__.cpython-39.pyc
+               2 個のファイル               1,101 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\utils のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,222 appdirs.py
+2021/05/18  10:11             1,912 compat.py
+2021/05/18  10:11             5,589 compatibility_tags.py
+2021/05/18  10:11               255 datetime.py
+2021/05/18  10:11             3,277 deprecation.py
+2021/05/18  10:11             3,935 direct_url_helpers.py
+2021/05/18  10:11             1,262 distutils_args.py
+2021/05/18  10:11             1,190 encoding.py
+2021/05/18  10:11             1,066 entrypoints.py
+2021/05/18  10:11             6,045 filesystem.py
+2021/05/18  10:11               761 filetypes.py
+2021/05/18  10:11             3,170 glibc.py
+2021/05/18  10:11             5,167 hashes.py
+2021/05/18  10:11               810 inject_securetransport.py
+2021/05/18  10:11            12,133 logging.py
+2021/05/18  10:11            23,405 misc.py
+2021/05/18  10:11             1,329 models.py
+2021/05/18  10:11             2,900 packaging.py
+2021/05/18  10:11             3,224 parallel.py
+2021/05/18  10:11             1,106 pkg_resources.py
+2021/05/18  10:11             5,047 setuptools_build.py
+2021/05/18  10:11            10,036 subprocess.py
+2021/05/18  10:11             7,950 temp_dir.py
+2021/05/18  10:11             9,032 unpacking.py
+2021/05/18  10:11             1,256 urls.py
+2021/05/18  10:11             3,564 virtualenv.py
+2021/05/18  10:11             6,290 wheel.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              28 個のファイル             122,933 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\utils\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,239 appdirs.cpython-39.pyc
+2021/05/18  10:11             1,441 compat.cpython-39.pyc
+2021/05/18  10:11             3,817 compatibility_tags.cpython-39.pyc
+2021/05/18  10:11               445 datetime.cpython-39.pyc
+2021/05/18  10:11             2,740 deprecation.cpython-39.pyc
+2021/05/18  10:11             2,494 direct_url_helpers.cpython-39.pyc
+2021/05/18  10:11             1,039 distutils_args.cpython-39.pyc
+2021/05/18  10:11             1,204 encoding.cpython-39.pyc
+2021/05/18  10:11             1,243 entrypoints.cpython-39.pyc
+2021/05/18  10:11             4,913 filesystem.cpython-39.pyc
+2021/05/18  10:11               786 filetypes.cpython-39.pyc
+2021/05/18  10:11             1,596 glibc.cpython-39.pyc
+2021/05/18  10:11             4,978 hashes.cpython-39.pyc
+2021/05/18  10:11               947 inject_securetransport.cpython-39.pyc
+2021/05/18  10:11             8,898 logging.cpython-39.pyc
+2021/05/18  10:11            21,344 misc.cpython-39.pyc
+2021/05/18  10:11             1,878 models.cpython-39.pyc
+2021/05/18  10:11             2,502 packaging.cpython-39.pyc
+2021/05/18  10:11             3,019 parallel.cpython-39.pyc
+2021/05/18  10:11             1,700 pkg_resources.cpython-39.pyc
+2021/05/18  10:11             2,944 setuptools_build.cpython-39.pyc
+2021/05/18  10:11             5,667 subprocess.cpython-39.pyc
+2021/05/18  10:11             6,818 temp_dir.cpython-39.pyc
+2021/05/18  10:11             6,439 unpacking.cpython-39.pyc
+2021/05/18  10:11             1,330 urls.cpython-39.pyc
+2021/05/18  10:11             3,197 virtualenv.cpython-39.pyc
+2021/05/18  10:11             5,948 wheel.cpython-39.pyc
+2021/05/18  10:11               174 __init__.cpython-39.pyc
+              28 個のファイル             100,740 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\vcs のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,962 bazaar.py
+2021/05/18  10:11            15,431 git.py
+2021/05/18  10:11             5,043 mercurial.py
+2021/05/18  10:11            11,876 subversion.py
+2021/05/18  10:11            23,086 versioncontrol.py
+2021/05/18  10:11               571 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               6 個のファイル              58,969 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\vcs\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,983 bazaar.cpython-39.pyc
+2021/05/18  10:11             9,959 git.cpython-39.pyc
+2021/05/18  10:11             4,604 mercurial.cpython-39.pyc
+2021/05/18  10:11             7,938 subversion.cpython-39.pyc
+2021/05/18  10:11            19,083 versioncontrol.cpython-39.pyc
+2021/05/18  10:11               467 __init__.cpython-39.pyc
+               6 個のファイル              45,034 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_internal\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             8,866 build_env.cpython-39.pyc
+2021/05/18  10:11             7,825 cache.cpython-39.pyc
+2021/05/18  10:11            10,677 configuration.cpython-39.pyc
+2021/05/18  10:11            15,626 exceptions.cpython-39.pyc
+2021/05/18  10:11               559 main.cpython-39.pyc
+2021/05/18  10:11             3,437 pyproject.cpython-39.pyc
+2021/05/18  10:11             4,322 self_outdated_check.cpython-39.pyc
+2021/05/18  10:11             8,260 wheel_builder.cpython-39.pyc
+2021/05/18  10:11               622 __init__.cpython-39.pyc
+               9 個のファイル              60,194 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            25,907 appdirs.py
+2021/05/18  10:11    <DIR>          cachecontrol
+2021/05/18  10:11    <DIR>          certifi
+2021/05/18  10:11    <DIR>          chardet
+2021/05/18  10:11    <DIR>          colorama
+2021/05/18  10:11    <DIR>          distlib
+2021/05/18  10:11            43,628 distro.py
+2021/05/18  10:11    <DIR>          html5lib
+2021/05/18  10:11    <DIR>          idna
+2021/05/18  10:11    <DIR>          msgpack
+2021/05/18  10:11    <DIR>          packaging
+2021/05/18  10:11    <DIR>          pep517
+2021/05/18  10:11    <DIR>          pkg_resources
+2021/05/18  10:11    <DIR>          progress
+2021/05/18  10:11           273,394 pyparsing.py
+2021/05/18  10:11    <DIR>          requests
+2021/05/18  10:11    <DIR>          resolvelib
+2021/05/18  10:11            34,159 six.py
+2021/05/18  10:11    <DIR>          tenacity
+2021/05/18  10:11    <DIR>          toml
+2021/05/18  10:11    <DIR>          urllib3
+2021/05/18  10:11               364 vendor.txt
+2021/05/18  10:11    <DIR>          webencodings
+2021/05/18  10:11             4,760 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               6 個のファイル             382,212 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\cachecontrol のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             4,882 adapter.py
+2021/05/18  10:11               805 cache.py
+2021/05/18  10:11    <DIR>          caches
+2021/05/18  10:11               695 compat.py
+2021/05/18  10:11            14,149 controller.py
+2021/05/18  10:11             2,533 filewrapper.py
+2021/05/18  10:11             4,070 heuristics.py
+2021/05/18  10:11             7,091 serialize.py
+2021/05/18  10:11               690 wrapper.py
+2021/05/18  10:11             1,295 _cmd.py
+2021/05/18  10:11               302 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              10 個のファイル              36,512 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\cachecontrol\caches のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             4,153 file_cache.py
+2021/05/18  10:11               856 redis_cache.py
+2021/05/18  10:11                86 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル               5,095 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,292 file_cache.cpython-39.pyc
+2021/05/18  10:11             1,548 redis_cache.cpython-39.pyc
+2021/05/18  10:11               276 __init__.cpython-39.pyc
+               3 個のファイル               5,116 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\cachecontrol\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,058 adapter.cpython-39.pyc
+2021/05/18  10:11             1,805 cache.cpython-39.pyc
+2021/05/18  10:11               729 compat.cpython-39.pyc
+2021/05/18  10:11             7,746 controller.cpython-39.pyc
+2021/05/18  10:11             2,154 filewrapper.cpython-39.pyc
+2021/05/18  10:11             4,686 heuristics.cpython-39.pyc
+2021/05/18  10:11             4,205 serialize.cpython-39.pyc
+2021/05/18  10:11               656 wrapper.cpython-39.pyc
+2021/05/18  10:11             1,553 _cmd.cpython-39.pyc
+2021/05/18  10:11               532 __init__.cpython-39.pyc
+              10 個のファイル              27,124 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\certifi のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11           263,774 cacert.pem
+2021/05/18  10:11             2,840 core.py
+2021/05/18  10:11                62 __init__.py
+2021/05/18  10:11               255 __main__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               4 個のファイル             266,931 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\certifi\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,526 core.cpython-39.pyc
+2021/05/18  10:11               258 __init__.cpython-39.pyc
+2021/05/18  10:11               435 __main__.cpython-39.pyc
+               3 個のファイル               2,219 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\chardet のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            31,254 big5freq.py
+2021/05/18  10:11             1,757 big5prober.py
+2021/05/18  10:11             9,411 chardistribution.py
+2021/05/18  10:11             3,839 charsetgroupprober.py
+2021/05/18  10:11             5,110 charsetprober.py
+2021/05/18  10:11    <DIR>          cli
+2021/05/18  10:11             3,590 codingstatemachine.py
+2021/05/18  10:11             1,200 compat.py
+2021/05/18  10:11             1,855 cp949prober.py
+2021/05/18  10:11             1,661 enums.py
+2021/05/18  10:11             3,950 escprober.py
+2021/05/18  10:11            10,510 escsm.py
+2021/05/18  10:11             3,749 eucjpprober.py
+2021/05/18  10:11            13,546 euckrfreq.py
+2021/05/18  10:11             1,748 euckrprober.py
+2021/05/18  10:11            31,621 euctwfreq.py
+2021/05/18  10:11             1,747 euctwprober.py
+2021/05/18  10:11            20,715 gb2312freq.py
+2021/05/18  10:11             1,754 gb2312prober.py
+2021/05/18  10:11            13,838 hebrewprober.py
+2021/05/18  10:11            25,777 jisfreq.py
+2021/05/18  10:11            19,643 jpcntx.py
+2021/05/18  10:11           105,697 langbulgarianmodel.py
+2021/05/18  10:11            99,571 langgreekmodel.py
+2021/05/18  10:11            98,776 langhebrewmodel.py
+2021/05/18  10:11           102,498 langhungarianmodel.py
+2021/05/18  10:11           131,180 langrussianmodel.py
+2021/05/18  10:11           103,312 langthaimodel.py
+2021/05/18  10:11            95,946 langturkishmodel.py
+2021/05/18  10:11             5,370 latin1prober.py
+2021/05/18  10:11             3,413 mbcharsetprober.py
+2021/05/18  10:11             2,012 mbcsgroupprober.py
+2021/05/18  10:11            25,481 mbcssm.py
+2021/05/18  10:11    <DIR>          metadata
+2021/05/18  10:11             6,136 sbcharsetprober.py
+2021/05/18  10:11             4,309 sbcsgroupprober.py
+2021/05/18  10:11             3,774 sjisprober.py
+2021/05/18  10:11            12,503 universaldetector.py
+2021/05/18  10:11             2,766 utf8prober.py
+2021/05/18  10:11               242 version.py
+2021/05/18  10:11             3,271 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              39 個のファイル           1,014,532 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\chardet\cli のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,747 chardetect.py
+2021/05/18  10:11                 1 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル               2,748 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\chardet\cli\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,672 chardetect.cpython-39.pyc
+2021/05/18  10:11               178 __init__.cpython-39.pyc
+               2 個のファイル               2,850 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\chardet\metadata のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            19,474 languages.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル              19,474 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\chardet\metadata\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             7,914 languages.cpython-39.pyc
+2021/05/18  10:11               183 __init__.cpython-39.pyc
+               2 個のファイル               8,097 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\chardet\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            27,161 big5freq.cpython-39.pyc
+2021/05/18  10:11             1,116 big5prober.cpython-39.pyc
+2021/05/18  10:11             6,202 chardistribution.cpython-39.pyc
+2021/05/18  10:11             2,243 charsetgroupprober.cpython-39.pyc
+2021/05/18  10:11             3,465 charsetprober.cpython-39.pyc
+2021/05/18  10:11             2,892 codingstatemachine.cpython-39.pyc
+2021/05/18  10:11               381 compat.cpython-39.pyc
+2021/05/18  10:11             1,123 cp949prober.cpython-39.pyc
+2021/05/18  10:11             2,630 enums.cpython-39.pyc
+2021/05/18  10:11             2,615 escprober.cpython-39.pyc
+2021/05/18  10:11             7,064 escsm.cpython-39.pyc
+2021/05/18  10:11             2,429 eucjpprober.cpython-39.pyc
+2021/05/18  10:11            12,045 euckrfreq.cpython-39.pyc
+2021/05/18  10:11             1,124 euckrprober.cpython-39.pyc
+2021/05/18  10:11            27,165 euctwfreq.cpython-39.pyc
+2021/05/18  10:11             1,124 euctwprober.cpython-39.pyc
+2021/05/18  10:11            19,089 gb2312freq.cpython-39.pyc
+2021/05/18  10:11             1,132 gb2312prober.cpython-39.pyc
+2021/05/18  10:11             3,001 hebrewprober.cpython-39.pyc
+2021/05/18  10:11            22,117 jisfreq.cpython-39.pyc
+2021/05/18  10:11            37,590 jpcntx.cpython-39.pyc
+2021/05/18  10:11            21,792 langbulgarianmodel.cpython-39.pyc
+2021/05/18  10:11            20,468 langgreekmodel.cpython-39.pyc
+2021/05/18  10:11            20,536 langhebrewmodel.cpython-39.pyc
+2021/05/18  10:11            21,737 langhungarianmodel.cpython-39.pyc
+2021/05/18  10:11            26,340 langrussianmodel.cpython-39.pyc
+2021/05/18  10:11            20,712 langthaimodel.cpython-39.pyc
+2021/05/18  10:11            20,552 langturkishmodel.cpython-39.pyc
+2021/05/18  10:11             2,937 latin1prober.cpython-39.pyc
+2021/05/18  10:11             2,244 mbcharsetprober.cpython-39.pyc
+2021/05/18  10:11             1,113 mbcsgroupprober.cpython-39.pyc
+2021/05/18  10:11            15,700 mbcssm.cpython-39.pyc
+2021/05/18  10:11             3,097 sbcharsetprober.cpython-39.pyc
+2021/05/18  10:11             1,682 sbcsgroupprober.cpython-39.pyc
+2021/05/18  10:11             2,465 sjisprober.cpython-39.pyc
+2021/05/18  10:11             5,813 universaldetector.cpython-39.pyc
+2021/05/18  10:11             1,974 utf8prober.cpython-39.pyc
+2021/05/18  10:11               421 version.cpython-39.pyc
+2021/05/18  10:11             1,882 __init__.cpython-39.pyc
+              39 個のファイル             375,173 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\colorama のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,522 ansi.py
+2021/05/18  10:11            10,517 ansitowin32.py
+2021/05/18  10:11             1,915 initialise.py
+2021/05/18  10:11             5,404 win32.py
+2021/05/18  10:11             6,438 winterm.py
+2021/05/18  10:11               239 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               6 個のファイル              27,035 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\colorama\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,211 ansi.cpython-39.pyc
+2021/05/18  10:11             7,677 ansitowin32.cpython-39.pyc
+2021/05/18  10:11             1,693 initialise.cpython-39.pyc
+2021/05/18  10:11             3,925 win32.cpython-39.pyc
+2021/05/18  10:11             4,647 winterm.cpython-39.pyc
+2021/05/18  10:11               426 __init__.cpython-39.pyc
+               6 個のファイル              21,579 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\distlib のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            41,408 compat.py
+2021/05/18  10:11            51,059 database.py
+2021/05/18  10:11            21,066 index.py
+2021/05/18  10:11            52,100 locators.py
+2021/05/18  10:11            14,811 manifest.py
+2021/05/18  10:11             4,387 markers.py
+2021/05/18  10:11            38,962 metadata.py
+2021/05/18  10:11            10,766 resources.py
+2021/05/18  10:11            17,180 scripts.py
+2021/05/18  10:11            96,768 t32.exe
+2021/05/18  10:11           105,984 t64.exe
+2021/05/18  10:11            59,845 util.py
+2021/05/18  10:11            23,391 version.py
+2021/05/18  10:11            90,112 w32.exe
+2021/05/18  10:11            99,840 w64.exe
+2021/05/18  10:11            41,144 wheel.py
+2021/05/18  10:11    <DIR>          _backport
+2021/05/18  10:11               581 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              17 個のファイル             769,404 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\distlib\_backport のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               971 misc.py
+2021/05/18  10:11            25,707 shutil.py
+2021/05/18  10:11             2,617 sysconfig.cfg
+2021/05/18  10:11            26,854 sysconfig.py
+2021/05/18  10:11            92,628 tarfile.py
+2021/05/18  10:11               274 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               6 個のファイル             149,051 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\distlib\_backport\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,086 misc.cpython-39.pyc
+2021/05/18  10:11            21,660 shutil.cpython-39.pyc
+2021/05/18  10:11            15,950 sysconfig.cpython-39.pyc
+2021/05/18  10:11            62,714 tarfile.cpython-39.pyc
+2021/05/18  10:11               466 __init__.cpython-39.pyc
+               5 個のファイル             101,876 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\distlib\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            32,141 compat.cpython-39.pyc
+2021/05/18  10:11            42,463 database.cpython-39.pyc
+2021/05/18  10:11            17,484 index.cpython-39.pyc
+2021/05/18  10:11            38,472 locators.cpython-39.pyc
+2021/05/18  10:11            10,175 manifest.cpython-39.pyc
+2021/05/18  10:11             4,466 markers.cpython-39.pyc
+2021/05/18  10:11            26,392 metadata.cpython-39.pyc
+2021/05/18  10:11            11,005 resources.cpython-39.pyc
+2021/05/18  10:11            10,913 scripts.cpython-39.pyc
+2021/05/18  10:11            48,185 util.cpython-39.pyc
+2021/05/18  10:11            20,290 version.cpython-39.pyc
+2021/05/18  10:11            26,374 wheel.cpython-39.pyc
+2021/05/18  10:11             1,039 __init__.cpython-39.pyc
+              13 個のファイル             289,399 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            83,464 constants.py
+2021/05/18  10:11    <DIR>          filters
+2021/05/18  10:11           117,186 html5parser.py
+2021/05/18  10:11            15,759 serializer.py
+2021/05/18  10:11    <DIR>          treeadapters
+2021/05/18  10:11    <DIR>          treebuilders
+2021/05/18  10:11    <DIR>          treewalkers
+2021/05/18  10:11            16,728 _ihatexml.py
+2021/05/18  10:11            32,353 _inputstream.py
+2021/05/18  10:11            77,040 _tokenizer.py
+2021/05/18  10:11    <DIR>          _trie
+2021/05/18  10:11             4,931 _utils.py
+2021/05/18  10:11             1,160 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               8 個のファイル             348,621 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\filters のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               919 alphabeticalattributes.py
+2021/05/18  10:11               286 base.py
+2021/05/18  10:11             2,945 inject_meta_charset.py
+2021/05/18  10:11             3,643 lint.py
+2021/05/18  10:11            10,588 optionaltags.py
+2021/05/18  10:11            26,897 sanitizer.py
+2021/05/18  10:11             1,214 whitespace.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               8 個のファイル              46,492 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\filters\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,305 alphabeticalattributes.cpython-39.pyc
+2021/05/18  10:11               853 base.cpython-39.pyc
+2021/05/18  10:11             1,859 inject_meta_charset.cpython-39.pyc
+2021/05/18  10:11             2,601 lint.cpython-39.pyc
+2021/05/18  10:11             2,746 optionaltags.cpython-39.pyc
+2021/05/18  10:11            16,869 sanitizer.cpython-39.pyc
+2021/05/18  10:11             1,351 whitespace.cpython-39.pyc
+2021/05/18  10:11               183 __init__.cpython-39.pyc
+               8 個のファイル              27,767 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\treeadapters のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,715 genshi.py
+2021/05/18  10:11             1,776 sax.py
+2021/05/18  10:11               679 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル               4,170 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,528 genshi.cpython-39.pyc
+2021/05/18  10:11             1,447 sax.cpython-39.pyc
+2021/05/18  10:11               920 __init__.cpython-39.pyc
+               3 個のファイル               3,895 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\treebuilders のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            14,565 base.py
+2021/05/18  10:11             8,925 dom.py
+2021/05/18  10:11            12,836 etree.py
+2021/05/18  10:11            14,766 etree_lxml.py
+2021/05/18  10:11             3,592 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル              54,684 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            11,299 base.cpython-39.pyc
+2021/05/18  10:11             9,436 dom.cpython-39.pyc
+2021/05/18  10:11            11,804 etree.cpython-39.pyc
+2021/05/18  10:11            12,987 etree_lxml.cpython-39.pyc
+2021/05/18  10:11             3,315 __init__.cpython-39.pyc
+               5 個のファイル              48,841 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\treewalkers のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             7,476 base.py
+2021/05/18  10:11             1,413 dom.py
+2021/05/18  10:11             4,551 etree.py
+2021/05/18  10:11             6,357 etree_lxml.py
+2021/05/18  10:11             2,309 genshi.py
+2021/05/18  10:11             5,719 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               6 個のファイル              27,825 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             6,980 base.cpython-39.pyc
+2021/05/18  10:11             1,715 dom.cpython-39.pyc
+2021/05/18  10:11             3,477 etree.cpython-39.pyc
+2021/05/18  10:11             6,614 etree_lxml.cpython-39.pyc
+2021/05/18  10:11             1,871 genshi.cpython-39.pyc
+2021/05/18  10:11             3,981 __init__.cpython-39.pyc
+               6 個のファイル              24,638 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\_trie のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,775 py.py
+2021/05/18  10:11             1,013 _base.py
+2021/05/18  10:11               109 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル               2,897 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\_trie\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,240 py.cpython-39.pyc
+2021/05/18  10:11             1,579 _base.cpython-39.pyc
+2021/05/18  10:11               335 __init__.cpython-39.pyc
+               3 個のファイル               4,154 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\html5lib\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            66,323 constants.cpython-39.pyc
+2021/05/18  10:11            90,994 html5parser.cpython-39.pyc
+2021/05/18  10:11            10,796 serializer.cpython-39.pyc
+2021/05/18  10:11            13,754 _ihatexml.cpython-39.pyc
+2021/05/18  10:11            21,613 _inputstream.cpython-39.pyc
+2021/05/18  10:11            39,708 _tokenizer.cpython-39.pyc
+2021/05/18  10:11             4,785 _utils.cpython-39.pyc
+2021/05/18  10:11             1,285 __init__.cpython-39.pyc
+               8 個のファイル             249,258 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\idna のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,027 codec.py
+2021/05/18  10:11               232 compat.py
+2021/05/18  10:11            11,849 core.py
+2021/05/18  10:11            42,350 idnadata.py
+2021/05/18  10:11             1,749 intranges.py
+2021/05/18  10:11                21 package_data.py
+2021/05/18  10:11           196,224 uts46data.py
+2021/05/18  10:11                58 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               8 個のファイル             255,510 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\idna\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,774 codec.cpython-39.pyc
+2021/05/18  10:11               612 compat.cpython-39.pyc
+2021/05/18  10:11             9,068 core.cpython-39.pyc
+2021/05/18  10:11            22,121 idnadata.cpython-39.pyc
+2021/05/18  10:11             1,792 intranges.cpython-39.pyc
+2021/05/18  10:11               194 package_data.cpython-39.pyc
+2021/05/18  10:11           146,129 uts46data.cpython-39.pyc
+2021/05/18  10:11               240 __init__.cpython-39.pyc
+               8 個のファイル             182,930 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\msgpack のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,081 exceptions.py
+2021/05/18  10:11             6,088 ext.py
+2021/05/18  10:11            38,026 fallback.py
+2021/05/18  10:11                20 _version.py
+2021/05/18  10:11             1,118 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル              46,333 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\msgpack\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,835 exceptions.cpython-39.pyc
+2021/05/18  10:11             6,263 ext.cpython-39.pyc
+2021/05/18  10:11            26,709 fallback.cpython-39.pyc
+2021/05/18  10:11               201 _version.cpython-39.pyc
+2021/05/18  10:11             1,397 __init__.cpython-39.pyc
+               5 個のファイル              36,405 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\packaging のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,472 markers.py
+2021/05/18  10:11             5,110 requirements.py
+2021/05/18  10:11            32,208 specifiers.py
+2021/05/18  10:11            29,561 tags.py
+2021/05/18  10:11             4,385 utils.py
+2021/05/18  10:11            15,974 version.py
+2021/05/18  10:11             1,128 _compat.py
+2021/05/18  10:11             2,022 _structures.py
+2021/05/18  10:11             1,824 _typing.py
+2021/05/18  10:11               726 __about__.py
+2021/05/18  10:11               562 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              11 個のファイル             102,972 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\packaging\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,254 markers.cpython-39.pyc
+2021/05/18  10:11             4,127 requirements.cpython-39.pyc
+2021/05/18  10:11            20,909 specifiers.cpython-39.pyc
+2021/05/18  10:11            18,526 tags.cpython-39.pyc
+2021/05/18  10:11             3,594 utils.cpython-39.pyc
+2021/05/18  10:11            12,658 version.cpython-39.pyc
+2021/05/18  10:11             1,126 _compat.cpython-39.pyc
+2021/05/18  10:11             2,880 _structures.cpython-39.pyc
+2021/05/18  10:11             1,483 _typing.cpython-39.pyc
+2021/05/18  10:11               672 __about__.cpython-39.pyc
+2021/05/18  10:11               528 __init__.cpython-39.pyc
+              11 個のファイル              75,757 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\pep517 のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,456 build.py
+2021/05/18  10:11             6,082 check.py
+2021/05/18  10:11             4,098 colorlog.py
+2021/05/18  10:11               780 compat.py
+2021/05/18  10:11             1,129 dirtools.py
+2021/05/18  10:11             6,041 envbuild.py
+2021/05/18  10:11    <DIR>          in_process
+2021/05/18  10:11             2,463 meta.py
+2021/05/18  10:11            11,044 wrappers.py
+2021/05/18  10:11               130 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               9 個のファイル              35,223 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\pep517\in_process のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             8,438 _in_process.py
+2021/05/18  10:11               563 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル               9,001 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\pep517\in_process\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             8,260 _in_process.cpython-39.pyc
+2021/05/18  10:11               898 __init__.cpython-39.pyc
+               2 個のファイル               9,158 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\pep517\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,545 build.cpython-39.pyc
+2021/05/18  10:11             5,080 check.cpython-39.pyc
+2021/05/18  10:11             2,921 colorlog.cpython-39.pyc
+2021/05/18  10:11             1,098 compat.cpython-39.pyc
+2021/05/18  10:11             1,330 dirtools.cpython-39.pyc
+2021/05/18  10:11             4,463 envbuild.cpython-39.pyc
+2021/05/18  10:11             2,903 meta.cpython-39.pyc
+2021/05/18  10:11            10,463 wrappers.cpython-39.pyc
+2021/05/18  10:11               296 __init__.cpython-39.pyc
+               9 個のファイル              32,099 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\pkg_resources のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               562 py31compat.py
+2021/05/18  10:11           108,277 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル             108,839 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\pkg_resources\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               633 py31compat.cpython-39.pyc
+2021/05/18  10:11           100,314 __init__.cpython-39.pyc
+               2 個のファイル             100,947 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\progress のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,854 bar.py
+2021/05/18  10:11             1,372 counter.py
+2021/05/18  10:11             1,380 spinner.py
+2021/05/18  10:11             4,857 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               4 個のファイル              10,463 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\progress\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,622 bar.cpython-39.pyc
+2021/05/18  10:11             1,456 counter.cpython-39.pyc
+2021/05/18  10:11             1,373 spinner.cpython-39.pyc
+2021/05/18  10:11             5,640 __init__.cpython-39.pyc
+               4 個のファイル              11,091 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\requests のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            21,548 adapters.py
+2021/05/18  10:11             6,496 api.py
+2021/05/18  10:11            10,207 auth.py
+2021/05/18  10:11               465 certs.py
+2021/05/18  10:11             2,045 compat.py
+2021/05/18  10:11            18,430 cookies.py
+2021/05/18  10:11             3,173 exceptions.py
+2021/05/18  10:11             3,578 help.py
+2021/05/18  10:11               757 hooks.py
+2021/05/18  10:11            34,373 models.py
+2021/05/18  10:11               695 packages.py
+2021/05/18  10:11            30,137 sessions.py
+2021/05/18  10:11             4,188 status_codes.py
+2021/05/18  10:11             3,005 structures.py
+2021/05/18  10:11            30,529 utils.py
+2021/05/18  10:11             1,096 _internal_utils.py
+2021/05/18  10:11             4,458 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+2021/05/18  10:11               441 __version__.py
+              18 個のファイル             175,621 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\requests\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            16,956 adapters.cpython-39.pyc
+2021/05/18  10:11             6,742 api.cpython-39.pyc
+2021/05/18  10:11             8,314 auth.cpython-39.pyc
+2021/05/18  10:11               616 certs.cpython-39.pyc
+2021/05/18  10:11             1,595 compat.cpython-39.pyc
+2021/05/18  10:11            18,805 cookies.cpython-39.pyc
+2021/05/18  10:11             5,228 exceptions.cpython-39.pyc
+2021/05/18  10:11             2,699 help.cpython-39.pyc
+2021/05/18  10:11               973 hooks.cpython-39.pyc
+2021/05/18  10:11            23,922 models.cpython-39.pyc
+2021/05/18  10:11               485 packages.cpython-39.pyc
+2021/05/18  10:11            19,827 sessions.cpython-39.pyc
+2021/05/18  10:11             4,222 status_codes.cpython-39.pyc
+2021/05/18  10:11             4,443 structures.cpython-39.pyc
+2021/05/18  10:11            22,600 utils.cpython-39.pyc
+2021/05/18  10:11             1,285 _internal_utils.cpython-39.pyc
+2021/05/18  10:11             3,652 __init__.cpython-39.pyc
+2021/05/18  10:11               538 __version__.cpython-39.pyc
+              18 個のファイル             142,902 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\resolvelib のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          compat
+2021/05/18  10:11             5,638 providers.py
+2021/05/18  10:11             1,364 reporters.py
+2021/05/18  10:11            17,292 resolvers.py
+2021/05/18  10:11             4,495 structs.py
+2021/05/18  10:11               537 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル              29,326 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\resolvelib\compat のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               156 collections_abc.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル                 156 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\resolvelib\compat\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               358 collections_abc.cpython-39.pyc
+2021/05/18  10:11               184 __init__.cpython-39.pyc
+               2 個のファイル                 542 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\resolvelib\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             6,509 providers.cpython-39.pyc
+2021/05/18  10:11             2,285 reporters.cpython-39.pyc
+2021/05/18  10:11            15,180 resolvers.cpython-39.pyc
+2021/05/18  10:11             6,903 structs.cpython-39.pyc
+2021/05/18  10:11               589 __init__.cpython-39.pyc
+               5 個のファイル              31,466 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\tenacity のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,307 after.py
+2021/05/18  10:11             1,154 before.py
+2021/05/18  10:11             1,784 before_sleep.py
+2021/05/18  10:11               739 compat.py
+2021/05/18  10:11             1,280 nap.py
+2021/05/18  10:11             5,463 retry.py
+2021/05/18  10:11             2,435 stop.py
+2021/05/18  10:11             1,729 tornadoweb.py
+2021/05/18  10:11             6,017 wait.py
+2021/05/18  10:11             2,833 _asyncio.py
+2021/05/18  10:11             4,555 _utils.py
+2021/05/18  10:11            16,528 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              12 個のファイル              45,824 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\tenacity\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               961 after.cpython-39.pyc
+2021/05/18  10:11               857 before.cpython-39.pyc
+2021/05/18  10:11             1,205 before_sleep.cpython-39.pyc
+2021/05/18  10:11               941 compat.cpython-39.pyc
+2021/05/18  10:11             1,010 nap.cpython-39.pyc
+2021/05/18  10:11             7,395 retry.cpython-39.pyc
+2021/05/18  10:11             3,771 stop.cpython-39.pyc
+2021/05/18  10:11             1,325 tornadoweb.cpython-39.pyc
+2021/05/18  10:11             7,328 wait.cpython-39.pyc
+2021/05/18  10:11             2,186 _asyncio.cpython-39.pyc
+2021/05/18  10:11             3,934 _utils.cpython-39.pyc
+2021/05/18  10:11            14,699 __init__.cpython-39.pyc
+              12 個のファイル              45,612 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\toml のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            38,954 decoder.py
+2021/05/18  10:11             9,964 encoder.py
+2021/05/18  10:11               378 ordered.py
+2021/05/18  10:11               701 tz.py
+2021/05/18  10:11               747 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル              50,744 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\toml\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            23,207 decoder.cpython-39.pyc
+2021/05/18  10:11             9,390 encoder.cpython-39.pyc
+2021/05/18  10:11               954 ordered.cpython-39.pyc
+2021/05/18  10:11             1,256 tz.cpython-39.pyc
+2021/05/18  10:11               715 __init__.cpython-39.pyc
+               5 個のファイル              35,522 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3 のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            18,748 connection.py
+2021/05/18  10:11            37,133 connectionpool.py
+2021/05/18  10:11    <DIR>          contrib
+2021/05/18  10:11             8,217 exceptions.py
+2021/05/18  10:11             8,579 fields.py
+2021/05/18  10:11             2,440 filepost.py
+2021/05/18  10:11    <DIR>          packages
+2021/05/18  10:11            19,763 poolmanager.py
+2021/05/18  10:11             5,985 request.py
+2021/05/18  10:11            28,203 response.py
+2021/05/18  10:11    <DIR>          util
+2021/05/18  10:11            10,811 _collections.py
+2021/05/18  10:11                63 _version.py
+2021/05/18  10:11             2,763 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              11 個のファイル             142,705 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\contrib のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            11,034 appengine.py
+2021/05/18  10:11             4,160 ntlmpool.py
+2021/05/18  10:11            16,795 pyopenssl.py
+2021/05/18  10:11            34,303 securetransport.py
+2021/05/18  10:11             7,097 socks.py
+2021/05/18  10:11               957 _appengine_environ.py
+2021/05/18  10:11    <DIR>          _securetransport
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               7 個のファイル              74,346 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            17,649 bindings.py
+2021/05/18  10:11            13,908 low_level.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル              31,557 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            10,706 bindings.cpython-39.pyc
+2021/05/18  10:11             9,155 low_level.cpython-39.pyc
+2021/05/18  10:11               199 __init__.cpython-39.pyc
+               3 個のファイル              20,060 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\contrib\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             8,255 appengine.cpython-39.pyc
+2021/05/18  10:11             3,247 ntlmpool.cpython-39.pyc
+2021/05/18  10:11            15,514 pyopenssl.cpython-39.pyc
+2021/05/18  10:11            21,826 securetransport.cpython-39.pyc
+2021/05/18  10:11             5,618 socks.cpython-39.pyc
+2021/05/18  10:11             1,402 _appengine_environ.cpython-39.pyc
+2021/05/18  10:11               182 __init__.cpython-39.pyc
+               7 個のファイル              56,044 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\packages のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          backports
+2021/05/18  10:11            32,536 six.py
+2021/05/18  10:11    <DIR>          ssl_match_hostname
+2021/05/18  10:11               108 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル              32,644 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\packages\backports のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,417 makefile.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル               1,417 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\packages\backports\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,291 makefile.cpython-39.pyc
+2021/05/18  10:11               193 __init__.cpython-39.pyc
+               2 個のファイル               1,484 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             5,679 _implementation.py
+2021/05/18  10:11               757 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル               6,436 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,286 _implementation.cpython-39.pyc
+2021/05/18  10:11               533 __init__.cpython-39.pyc
+               2 個のファイル               3,819 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\packages\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            26,500 six.cpython-39.pyc
+2021/05/18  10:11               296 __init__.cpython-39.pyc
+               2 個のファイル              26,796 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\util のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             4,922 connection.py
+2021/05/18  10:11             1,604 proxy.py
+2021/05/18  10:11               498 queue.py
+2021/05/18  10:11             4,123 request.py
+2021/05/18  10:11             3,510 response.py
+2021/05/18  10:11            21,396 retry.py
+2021/05/18  10:11             6,932 ssltransport.py
+2021/05/18  10:11            16,281 ssl_.py
+2021/05/18  10:11            10,003 timeout.py
+2021/05/18  10:11            13,981 url.py
+2021/05/18  10:11             5,404 wait.py
+2021/05/18  10:11             1,155 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              12 個のファイル              89,809 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\util\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,446 connection.cpython-39.pyc
+2021/05/18  10:11             1,328 proxy.cpython-39.pyc
+2021/05/18  10:11             1,047 queue.cpython-39.pyc
+2021/05/18  10:11             3,435 request.cpython-39.pyc
+2021/05/18  10:11             2,332 response.cpython-39.pyc
+2021/05/18  10:11            15,949 retry.cpython-39.pyc
+2021/05/18  10:11             7,498 ssltransport.cpython-39.pyc
+2021/05/18  10:11            11,010 ssl_.cpython-39.pyc
+2021/05/18  10:11             8,930 timeout.cpython-39.pyc
+2021/05/18  10:11            10,606 url.cpython-39.pyc
+2021/05/18  10:11             3,115 wait.cpython-39.pyc
+2021/05/18  10:11             1,092 __init__.cpython-39.pyc
+              12 個のファイル              69,788 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\urllib3\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            13,352 connection.cpython-39.pyc
+2021/05/18  10:11            24,451 connectionpool.cpython-39.pyc
+2021/05/18  10:11            11,629 exceptions.cpython-39.pyc
+2021/05/18  10:11             8,144 fields.cpython-39.pyc
+2021/05/18  10:11             2,745 filepost.cpython-39.pyc
+2021/05/18  10:11            15,147 poolmanager.cpython-39.pyc
+2021/05/18  10:11             5,608 request.cpython-39.pyc
+2021/05/18  10:11            20,819 response.cpython-39.pyc
+2021/05/18  10:11            10,767 _collections.cpython-39.pyc
+2021/05/18  10:11               196 _version.cpython-39.pyc
+2021/05/18  10:11             2,172 __init__.cpython-39.pyc
+              11 個のファイル             115,030 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\webencodings のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             8,979 labels.py
+2021/05/18  10:11             1,305 mklabels.py
+2021/05/18  10:11             6,563 tests.py
+2021/05/18  10:11             4,307 x_user_defined.py
+2021/05/18  10:11            10,579 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               5 個のファイル              31,733 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\webencodings\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,820 labels.cpython-39.pyc
+2021/05/18  10:11             1,890 mklabels.cpython-39.pyc
+2021/05/18  10:11             5,054 tests.cpython-39.pyc
+2021/05/18  10:11             2,650 x_user_defined.cpython-39.pyc
+2021/05/18  10:11             9,706 __init__.cpython-39.pyc
+               5 個のファイル              23,120 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\_vendor\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            21,382 appdirs.cpython-39.pyc
+2021/05/18  10:11            36,861 distro.cpython-39.pyc
+2021/05/18  10:11           240,418 pyparsing.cpython-39.pyc
+2021/05/18  10:11            26,928 six.cpython-39.pyc
+2021/05/18  10:11             2,929 __init__.cpython-39.pyc
+               5 個のファイル             328,518 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               573 __init__.cpython-39.pyc
+2021/05/18  10:11               570 __main__.cpython-39.pyc
+               2 個のファイル               1,143 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pip-21.1.1.dist-info のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               125 entry_points.txt
+2021/05/18  10:11                 4 INSTALLER
+2021/05/18  10:11             1,090 LICENSE.txt
+2021/05/18  10:11             4,103 METADATA
+2021/05/18  10:11            61,762 RECORD
+2021/05/18  10:11                 0 REQUESTED
+2021/05/18  10:11                 4 top_level.txt
+2021/05/18  10:11                92 WHEEL
+               8 個のファイル              67,180 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          extern
+2021/05/18  10:11    <DIR>          tests
+2021/05/18  10:11    <DIR>          _vendor
+2021/05/18  10:11           108,202 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               1 個のファイル             108,202 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\extern のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,362 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               1 個のファイル               2,362 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\extern\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,865 __init__.cpython-39.pyc
+               1 個のファイル               2,865 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\tests のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          data
+               0 個のファイル                   0 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\tests\data のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11    <DIR>          my-test-package-source
+               0 個のファイル                   0 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               104 setup.py
+2021/05/18  10:11    <DIR>          __pycache__
+               1 個のファイル                 104 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               304 setup.cpython-39.pyc
+               1 個のファイル                 304 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\_vendor のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            24,701 appdirs.py
+2021/05/18  10:11    <DIR>          packaging
+2021/05/18  10:11           232,055 pyparsing.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル             256,756 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\_vendor\packaging のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,518 markers.py
+2021/05/18  10:11             4,929 requirements.py
+2021/05/18  10:11            31,944 specifiers.py
+2021/05/18  10:11            24,067 tags.py
+2021/05/18  10:11             1,811 utils.py
+2021/05/18  10:11            15,470 version.py
+2021/05/18  10:11             1,128 _compat.py
+2021/05/18  10:11             2,022 _structures.py
+2021/05/18  10:11             1,812 _typing.py
+2021/05/18  10:11               736 __about__.py
+2021/05/18  10:11               562 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              11 個のファイル              93,999 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,297 markers.cpython-39.pyc
+2021/05/18  10:11             4,074 requirements.cpython-39.pyc
+2021/05/18  10:11            20,573 specifiers.cpython-39.pyc
+2021/05/18  10:11            17,252 tags.cpython-39.pyc
+2021/05/18  10:11             1,643 utils.cpython-39.pyc
+2021/05/18  10:11            13,310 version.cpython-39.pyc
+2021/05/18  10:11             1,136 _compat.cpython-39.pyc
+2021/05/18  10:11             2,890 _structures.cpython-39.pyc
+2021/05/18  10:11             1,481 _typing.cpython-39.pyc
+2021/05/18  10:11               692 __about__.cpython-39.pyc
+2021/05/18  10:11               538 __init__.cpython-39.pyc
+              11 個のファイル              72,886 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\_vendor\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            20,493 appdirs.cpython-39.pyc
+2021/05/18  10:11           201,329 pyparsing.cpython-39.pyc
+2021/05/18  10:11               176 __init__.cpython-39.pyc
+               3 個のファイル             221,998 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\pkg_resources\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11           100,422 __init__.cpython-39.pyc
+               1 個のファイル             100,422 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             7,077 archive_util.py
+2021/05/18  10:11            10,280 build_meta.py
+2021/05/18  10:11            65,536 cli-32.exe
+2021/05/18  10:11            74,752 cli-64.exe
+2021/05/18  10:11            65,536 cli.exe
+2021/05/18  10:11    <DIR>          command
+2021/05/18  10:11            22,020 config.py
+2021/05/18  10:11             5,474 depends.py
+2021/05/18  10:11               949 dep_util.py
+2021/05/18  10:11            40,150 dist.py
+2021/05/18  10:11               524 errors.py
+2021/05/18  10:11             1,684 extension.py
+2021/05/18  10:11    <DIR>          extern
+2021/05/18  10:11             4,873 glob.py
+2021/05/18  10:11            65,536 gui-32.exe
+2021/05/18  10:11            75,264 gui-64.exe
+2021/05/18  10:11            65,536 gui.exe
+2021/05/18  10:11             3,567 installer.py
+2021/05/18  10:11               812 launch.py
+2021/05/18  10:11             2,335 lib2to3_ex.py
+2021/05/18  10:11             5,217 monkey.py
+2021/05/18  10:11            51,126 msvc.py
+2021/05/18  10:11             3,093 namespaces.py
+2021/05/18  10:11            40,718 package_index.py
+2021/05/18  10:11               245 py34compat.py
+2021/05/18  10:11            14,151 sandbox.py
+2021/05/18  10:11               218 script (dev).tmpl
+2021/05/18  10:11               138 script.tmpl
+2021/05/18  10:11             8,565 ssl_support.py
+2021/05/18  10:11               941 unicode_utils.py
+2021/05/18  10:11               144 version.py
+2021/05/18  10:11             8,288 wheel.py
+2021/05/18  10:11               714 windows_support.py
+2021/05/18  10:11               218 _deprecation_warning.py
+2021/05/18  10:11    <DIR>          _distutils
+2021/05/18  10:11             2,388 _imp.py
+2021/05/18  10:11    <DIR>          _vendor
+2021/05/18  10:11             7,681 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              34 個のファイル             655,750 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\command のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,381 alias.py
+2021/05/18  10:11            16,604 bdist_egg.py
+2021/05/18  10:11               900 bdist_rpm.py
+2021/05/18  10:11             4,415 build_clib.py
+2021/05/18  10:11            13,027 build_ext.py
+2021/05/18  10:11             9,473 build_py.py
+2021/05/18  10:11             8,045 develop.py
+2021/05/18  10:11               960 dist_info.py
+2021/05/18  10:11            85,308 easy_install.py
+2021/05/18  10:11            25,079 egg_info.py
+2021/05/18  10:11             4,705 install.py
+2021/05/18  10:11             2,203 install_egg_info.py
+2021/05/18  10:11             3,875 install_lib.py
+2021/05/18  10:11             2,593 install_scripts.py
+2021/05/18  10:11               628 launcher manifest.xml
+2021/05/18  10:11             4,946 py36compat.py
+2021/05/18  10:11               468 register.py
+2021/05/18  10:11             2,128 rotate.py
+2021/05/18  10:11               658 saveopts.py
+2021/05/18  10:11             7,818 sdist.py
+2021/05/18  10:11             5,051 setopt.py
+2021/05/18  10:11             9,469 test.py
+2021/05/18  10:11               462 upload.py
+2021/05/18  10:11             7,218 upload_docs.py
+2021/05/18  10:11               551 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              25 個のファイル             218,965 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\command\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,356 alias.cpython-39.pyc
+2021/05/18  10:11            13,022 bdist_egg.cpython-39.pyc
+2021/05/18  10:11             1,342 bdist_rpm.cpython-39.pyc
+2021/05/18  10:11             2,453 build_clib.cpython-39.pyc
+2021/05/18  10:11             9,726 build_ext.cpython-39.pyc
+2021/05/18  10:11             8,680 build_py.cpython-39.pyc
+2021/05/18  10:11             6,441 develop.cpython-39.pyc
+2021/05/18  10:11             1,380 dist_info.cpython-39.pyc
+2021/05/18  10:11            63,537 easy_install.cpython-39.pyc
+2021/05/18  10:11            21,697 egg_info.cpython-39.pyc
+2021/05/18  10:11             4,021 install.cpython-39.pyc
+2021/05/18  10:11             2,412 install_egg_info.cpython-39.pyc
+2021/05/18  10:11             4,119 install_lib.cpython-39.pyc
+2021/05/18  10:11             2,407 install_scripts.cpython-39.pyc
+2021/05/18  10:11             4,574 py36compat.cpython-39.pyc
+2021/05/18  10:11               830 register.cpython-39.pyc
+2021/05/18  10:11             2,489 rotate.cpython-39.pyc
+2021/05/18  10:11               908 saveopts.cpython-39.pyc
+2021/05/18  10:11             7,608 sdist.cpython-39.pyc
+2021/05/18  10:11             4,520 setopt.cpython-39.pyc
+2021/05/18  10:11             8,483 test.cpython-39.pyc
+2021/05/18  10:11               803 upload.cpython-39.pyc
+2021/05/18  10:11             6,146 upload_docs.cpython-39.pyc
+2021/05/18  10:11               638 __init__.cpython-39.pyc
+              24 個のファイル             180,592 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\extern のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,389 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               1 個のファイル               2,389 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\extern\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             2,888 __init__.cpython-39.pyc
+               1 個のファイル               2,888 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_distutils のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             8,572 archive_util.py
+2021/05/18  10:11            14,894 bcppcompiler.py
+2021/05/18  10:11            47,437 ccompiler.py
+2021/05/18  10:11            18,079 cmd.py
+2021/05/18  10:11    <DIR>          command
+2021/05/18  10:11             4,827 config.py
+2021/05/18  10:11             8,876 core.py
+2021/05/18  10:11            16,380 cygwinccompiler.py
+2021/05/18  10:11               139 debug.py
+2021/05/18  10:11             3,491 dep_util.py
+2021/05/18  10:11             7,778 dir_util.py
+2021/05/18  10:11            50,421 dist.py
+2021/05/18  10:11             3,577 errors.py
+2021/05/18  10:11            10,515 extension.py
+2021/05/18  10:11            17,784 fancy_getopt.py
+2021/05/18  10:11            12,832 filelist.py
+2021/05/18  10:11             8,148 file_util.py
+2021/05/18  10:11             1,969 log.py
+2021/05/18  10:11            30,453 msvc9compiler.py
+2021/05/18  10:11            23,540 msvccompiler.py
+2021/05/18  10:11               455 py35compat.py
+2021/05/18  10:11               212 py38compat.py
+2021/05/18  10:11             4,408 spawn.py
+2021/05/18  10:11            21,349 sysconfig.py
+2021/05/18  10:11            12,483 text_file.py
+2021/05/18  10:11            14,696 unixccompiler.py
+2021/05/18  10:11            20,985 util.py
+2021/05/18  10:11            12,514 version.py
+2021/05/18  10:11             5,133 versionpredicate.py
+2021/05/18  10:11            20,813 _msvccompiler.py
+2021/05/18  10:11               250 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              30 個のファイル             403,010 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_distutils\command のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             5,562 bdist.py
+2021/05/18  10:11             4,913 bdist_dumb.py
+2021/05/18  10:11            35,579 bdist_msi.py
+2021/05/18  10:11            21,537 bdist_rpm.py
+2021/05/18  10:11            16,030 bdist_wininst.py
+2021/05/18  10:11             5,767 build.py
+2021/05/18  10:11             8,022 build_clib.py
+2021/05/18  10:11            31,685 build_ext.py
+2021/05/18  10:11            17,190 build_py.py
+2021/05/18  10:11             6,232 build_scripts.py
+2021/05/18  10:11             5,637 check.py
+2021/05/18  10:11             2,776 clean.py
+2021/05/18  10:11            13,117 config.py
+2021/05/18  10:11            27,482 install.py
+2021/05/18  10:11             2,822 install_data.py
+2021/05/18  10:11             2,603 install_egg_info.py
+2021/05/18  10:11             1,298 install_headers.py
+2021/05/18  10:11             8,397 install_lib.py
+2021/05/18  10:11             2,017 install_scripts.py
+2021/05/18  10:11               671 py37compat.py
+2021/05/18  10:11            11,712 register.py
+2021/05/18  10:11            19,005 sdist.py
+2021/05/18  10:11             7,597 upload.py
+2021/05/18  10:11               799 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              24 個のファイル             258,450 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_distutils\command\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             3,648 bdist.cpython-39.pyc
+2021/05/18  10:11             3,631 bdist_dumb.cpython-39.pyc
+2021/05/18  10:11            19,813 bdist_msi.cpython-39.pyc
+2021/05/18  10:11            12,268 bdist_rpm.cpython-39.pyc
+2021/05/18  10:11             8,588 bdist_wininst.cpython-39.pyc
+2021/05/18  10:11             3,924 build.cpython-39.pyc
+2021/05/18  10:11             4,843 build_clib.cpython-39.pyc
+2021/05/18  10:11            16,292 build_ext.cpython-39.pyc
+2021/05/18  10:11            10,476 build_py.cpython-39.pyc
+2021/05/18  10:11             4,373 build_scripts.cpython-39.pyc
+2021/05/18  10:11             4,952 check.cpython-39.pyc
+2021/05/18  10:11             2,125 clean.cpython-39.pyc
+2021/05/18  10:11            10,255 config.cpython-39.pyc
+2021/05/18  10:11            13,842 install.cpython-39.pyc
+2021/05/18  10:11             2,328 install_data.cpython-39.pyc
+2021/05/18  10:11             3,063 install_egg_info.cpython-39.pyc
+2021/05/18  10:11             1,753 install_headers.cpython-39.pyc
+2021/05/18  10:11             5,125 install_lib.cpython-39.pyc
+2021/05/18  10:11             2,176 install_scripts.cpython-39.pyc
+2021/05/18  10:11             1,019 py37compat.cpython-39.pyc
+2021/05/18  10:11             8,496 register.cpython-39.pyc
+2021/05/18  10:11            14,523 sdist.cpython-39.pyc
+2021/05/18  10:11             5,246 upload.cpython-39.pyc
+2021/05/18  10:11               518 __init__.cpython-39.pyc
+              24 個のファイル             163,277 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_distutils\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             6,630 archive_util.cpython-39.pyc
+2021/05/18  10:11             6,541 bcppcompiler.cpython-39.pyc
+2021/05/18  10:11            33,246 ccompiler.cpython-39.pyc
+2021/05/18  10:11            13,969 cmd.cpython-39.pyc
+2021/05/18  10:11             3,572 config.cpython-39.pyc
+2021/05/18  10:11             6,697 core.cpython-39.pyc
+2021/05/18  10:11             8,546 cygwinccompiler.cpython-39.pyc
+2021/05/18  10:11               239 debug.cpython-39.pyc
+2021/05/18  10:11             2,759 dep_util.cpython-39.pyc
+2021/05/18  10:11             5,860 dir_util.cpython-39.pyc
+2021/05/18  10:11            34,430 dist.cpython-39.pyc
+2021/05/18  10:11             5,295 errors.cpython-39.pyc
+2021/05/18  10:11             6,960 extension.cpython-39.pyc
+2021/05/18  10:11            10,668 fancy_getopt.cpython-39.pyc
+2021/05/18  10:11             9,878 filelist.cpython-39.pyc
+2021/05/18  10:11             6,026 file_util.cpython-39.pyc
+2021/05/18  10:11             2,358 log.cpython-39.pyc
+2021/05/18  10:11            17,555 msvc9compiler.cpython-39.pyc
+2021/05/18  10:11            14,750 msvccompiler.cpython-39.pyc
+2021/05/18  10:11               615 py35compat.cpython-39.pyc
+2021/05/18  10:11               410 py38compat.cpython-39.pyc
+2021/05/18  10:11             3,411 spawn.cpython-39.pyc
+2021/05/18  10:11            12,392 sysconfig.cpython-39.pyc
+2021/05/18  10:11             8,484 text_file.cpython-39.pyc
+2021/05/18  10:11             6,645 unixccompiler.cpython-39.pyc
+2021/05/18  10:11            15,678 util.cpython-39.pyc
+2021/05/18  10:11             7,384 version.cpython-39.pyc
+2021/05/18  10:11             5,168 versionpredicate.cpython-39.pyc
+2021/05/18  10:11            13,798 _msvccompiler.cpython-39.pyc
+2021/05/18  10:11               443 __init__.cpython-39.pyc
+              30 個のファイル             270,407 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_vendor のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            15,130 ordered_set.py
+2021/05/18  10:11    <DIR>          packaging
+2021/05/18  10:11           232,055 pyparsing.py
+2021/05/18  10:11                 0 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               3 個のファイル             247,185 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_vendor\packaging のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,509 markers.py
+2021/05/18  10:11             4,917 requirements.py
+2021/05/18  10:11            31,944 specifiers.py
+2021/05/18  10:11            24,067 tags.py
+2021/05/18  10:11             1,811 utils.py
+2021/05/18  10:11            15,470 version.py
+2021/05/18  10:11             1,128 _compat.py
+2021/05/18  10:11             2,022 _structures.py
+2021/05/18  10:11             1,812 _typing.py
+2021/05/18  10:11               736 __about__.py
+2021/05/18  10:11               562 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+              11 個のファイル              93,978 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_vendor\packaging\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             9,291 markers.cpython-39.pyc
+2021/05/18  10:11             4,068 requirements.cpython-39.pyc
+2021/05/18  10:11            20,570 specifiers.cpython-39.pyc
+2021/05/18  10:11            17,249 tags.cpython-39.pyc
+2021/05/18  10:11             1,640 utils.cpython-39.pyc
+2021/05/18  10:11            13,307 version.cpython-39.pyc
+2021/05/18  10:11             1,133 _compat.cpython-39.pyc
+2021/05/18  10:11             2,887 _structures.cpython-39.pyc
+2021/05/18  10:11             1,478 _typing.cpython-39.pyc
+2021/05/18  10:11               689 __about__.cpython-39.pyc
+2021/05/18  10:11               535 __init__.cpython-39.pyc
+              11 個のファイル              72,847 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\_vendor\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11            16,367 ordered_set.cpython-39.pyc
+2021/05/18  10:11           201,326 pyparsing.cpython-39.pyc
+2021/05/18  10:11               173 __init__.cpython-39.pyc
+               3 個のファイル             217,866 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             5,799 archive_util.cpython-39.pyc
+2021/05/18  10:11             9,058 build_meta.cpython-39.pyc
+2021/05/18  10:11            19,833 config.cpython-39.pyc
+2021/05/18  10:11             5,234 depends.cpython-39.pyc
+2021/05/18  10:11               842 dep_util.cpython-39.pyc
+2021/05/18  10:11            33,317 dist.cpython-39.pyc
+2021/05/18  10:11               835 errors.cpython-39.pyc
+2021/05/18  10:11             1,929 extension.cpython-39.pyc
+2021/05/18  10:11             3,679 glob.cpython-39.pyc
+2021/05/18  10:11             2,756 installer.cpython-39.pyc
+2021/05/18  10:11               886 launch.cpython-39.pyc
+2021/05/18  10:11             2,688 lib2to3_ex.cpython-39.pyc
+2021/05/18  10:11             4,598 monkey.cpython-39.pyc
+2021/05/18  10:11            43,255 msvc.cpython-39.pyc
+2021/05/18  10:11             3,585 namespaces.cpython-39.pyc
+2021/05/18  10:11            33,079 package_index.cpython-39.pyc
+2021/05/18  10:11               465 py34compat.cpython-39.pyc
+2021/05/18  10:11            15,759 sandbox.cpython-39.pyc
+2021/05/18  10:11             6,846 ssl_support.cpython-39.pyc
+2021/05/18  10:11             1,099 unicode_utils.cpython-39.pyc
+2021/05/18  10:11               309 version.cpython-39.pyc
+2021/05/18  10:11             7,265 wheel.cpython-39.pyc
+2021/05/18  10:11             1,008 windows_support.cpython-39.pyc
+2021/05/18  10:11               535 _deprecation_warning.cpython-39.pyc
+2021/05/18  10:11             2,070 _imp.cpython-39.pyc
+2021/05/18  10:11             8,609 __init__.cpython-39.pyc
+              26 個のファイル             215,338 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\setuptools-56.0.0.dist-info のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               239 dependency_links.txt
+2021/05/18  10:11             2,869 entry_points.txt
+2021/05/18  10:11                 4 INSTALLER
+2021/05/18  10:11             1,050 LICENSE
+2021/05/18  10:11             4,759 METADATA
+2021/05/18  10:11            22,796 RECORD
+2021/05/18  10:11                 0 REQUESTED
+2021/05/18  10:11                41 top_level.txt
+2021/05/18  10:11                92 WHEEL
+               9 個のファイル              31,850 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\_distutils_hack のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11                44 override.py
+2021/05/18  10:11             3,686 __init__.py
+2021/05/18  10:11    <DIR>          __pycache__
+               2 個のファイル               3,730 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Lib\site-packages\_distutils_hack\__pycache__ のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11               221 override.cpython-39.pyc
+2021/05/18  10:11             5,089 __init__.cpython-39.pyc
+               2 個のファイル               5,310 バイト
+
+ C:\Users\piece\djangogirls\myvenv\Scripts のディレクトリ
+
+2021/05/18  10:11    <DIR>          .
+2021/05/18  10:11    <DIR>          ..
+2021/05/18  10:11             1,980 activate
+2021/05/18  10:11               972 activate.bat
+2021/05/18  10:11            19,328 Activate.ps1
+2021/05/18  10:11               368 deactivate.bat
+2021/05/18  10:11           106,363 pip.exe
+2021/05/18  10:11           106,363 pip3.9.exe
+2021/05/18  10:11           106,363 pip3.exe
+2021/05/18  10:11           539,312 python.exe
+2021/05/18  10:11           537,776 pythonw.exe
+               9 個のファイル           1,418,825 バイト
+
+     ファイルの総数:
+            1100 個のファイル          14,013,355 バイト
+             437 個のディレクトリ  393,589,338,112 バイトの空き領域
